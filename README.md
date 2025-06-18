@@ -1,4 +1,4 @@
-# .NET Messaging Sample with RabbitMQ ( & MassTransit)
+# .NET Messaging Sample with RabbitMQ & MassTransit
 
 This repository contains .NET 9 Worker Service projects demonstrating messaging patterns using RabbitMQ. Before running any of the projects, you need a RabbitMQ broker running locally in a Docker container.
 
